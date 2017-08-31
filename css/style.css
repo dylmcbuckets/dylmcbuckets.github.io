@@ -1,4 +1,4 @@
 .my-navbar {
-	color: red;
-	background-color: green;
+	color: red !important;
+	background-color: green !important;
 }
